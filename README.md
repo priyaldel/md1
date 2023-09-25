@@ -17,7 +17,7 @@
 
 ***_For Viewing Purpose_***
 <!--- comment--->
-[Alt text](istockphoto-1401980646-1024x1024.jpg)
+![Alt text](istockphoto-1401980646-1024x1024.jpg)
 
 |Column name 1|Column name 2|Column name 3|
 ---|---|---|
