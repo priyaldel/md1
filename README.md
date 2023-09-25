@@ -24,7 +24,7 @@
 |data 1|data 2|data 3|
 |data 1|data 2|data 3|
 |data 1|data 2|data 3|
-|data 1|data 2|[Click here for python file](https://github.com/Harsha-Trainer/Demo/blob/main/hello.py)|
+|data 1|data 2|[Click here for python file](https://github.com/priyaldel/p1/blob/main/F3.py)|
 
 ```python
 print ("Hello World")
